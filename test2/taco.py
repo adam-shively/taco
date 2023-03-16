@@ -1,4 +1,4 @@
-class Test:
+class Taco:
 
     def hello_world():
         print("Hello World")
