@@ -3,5 +3,5 @@ from setuptools import setup, find_packages
 setup(
     name='test',
     version='0.1.0',
-    packages=find_packages(include=['test2', 'test2.*'])
+    packages=find_packages(include=['test', 'test.*'])
 )
